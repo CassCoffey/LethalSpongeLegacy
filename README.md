@@ -1,3 +1,3 @@
-# Lethal Sponge
+# Lethal Sponge Legacy
 
-Leak cleanup
+Legacy version of Lethal Sponge for non-current Lethal Company versions.
